@@ -1,0 +1,12 @@
+[
+  { "id": 1, "model": "Toyota Camry", "year": 2022 },
+  { "id": 2, "model": "Honda Accord", "year": 2021 },
+  { "id": 3, "model": "Ford Mustang", "year": 2020 },
+  { "id": 4, "model": "Chevrolet Silverado", "year": 2022 },
+  { "id": 5, "model": "BMW 3 Series", "year": 2021 },
+  { "id": 6, "model": "Mercedes-Benz E-Class", "year": 2020 },
+  { "id": 7, "model": "Audi Q5", "year": 2022 },
+  { "id": 8, "model": "Nissan Altima", "year": 2021 },
+  { "id": 9, "model": "Tesla Model 3", "year": 2020 },
+  { "id": 10, "model": "Nissan Rogue", "year": 2023, "yaer": 2023 }
+]
